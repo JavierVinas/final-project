@@ -131,6 +131,6 @@ dmypy.json
 .DS_Store
 
 .idea
-.json
+*.json
 
 /facturas
